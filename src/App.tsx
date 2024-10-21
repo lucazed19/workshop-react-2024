@@ -1,5 +1,5 @@
 export function App() {
   return (
-    <h1>Workshop React 2024</h1>
+    <h1 className="text-white m-5 text-lg font-bold">Workshop React 2024</h1>
   )
 }
