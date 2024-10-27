@@ -4,5 +4,18 @@
 
 html,
 body {
-  background-color: #1e293b;
+  background-color: #c8c2c1;
+}
+
+.bg-eminence {
+  background-color:  #bb60c5;
+}
+
+.bg-eminencehover:hover {
+  background-color:  #78477e;
+  color: white;
+}
+
+.bg-offwhite {
+  background-color:  #DBD4D3;
 }
